@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pollochucoapp",
+  "private_key_id": "3378e6f87612501b145b43de608358563000b72a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJq+SaarlUjj2K\n/v6ImI+xyeEgOIEknS32NmPdYe+nUt2SO3u1vF6zoUiAYkZ7nKQXeKMx0hZ7QoQw\nuq6CXoECj4uds6XnCa2tJt8dh7PWAURCxXVNajoyc4iCU9we/I97uznH81ckYOfS\n/LhUSlLhGhoh8dtGZ9C/SJNSD9Yib3g/mqESJfYwxsZqG58v3q5LwZ53HIrIn3hX\nU7dwbrzZNKM3U7XFE1IU5a0ilCoW4aOgvaFKK45n6GLPpnUjMS12RAe7YBwsD9O0\n17XPmi3XjDkEWZk8zp+jrJ/J2Ri9U+URj2nbU/4wR7owoETaQ5xTDEO9JtAcoCul\nt08NbBk1AgMBAAECggEAEIMXuFHz2IRomGcY7upeMjkciuoSyYKUvGOcfnLnRPda\nshSsjscnJ4TVfheDJwSpWyJIQGBvxp9TWfcK/0cev9eCH63RcAQsRBtaP3LN4BWM\nodKaMGC5y57cht6NYmcc62KmEDpFwLIuK6mqq6dwjO2OxV07WNLQC2gKkeM/OI9B\nI7CkBFNXJ7YzZ1plMn+nVpzGQohEr5Fgsgr4uUYUlDEbZua6hwW5ojXcWnqP4+pN\nMvIaXhWQq5cIPtBn+eAbuF4otJt4mh90pcdEjuHk7NaIvIhyutElxvb0wz6yguSx\njX2ghXuPTIiyi1zrlJD9xjjvTmYR/ovBJ40MQMJH0QKBgQDxONprn+PHLd34b81F\neAeJyUmn024OLMoWtCob43HLa9seAV12r3cRNBFr7aBwwOjeLJ5Gfo7MbdoJOfyB\nHo+pJEDuSJf8Dw8X3Vv9Y7WXJmWRjB3Ss3FIvYEPVOlTu7TfRv8vTWJuM4pOK0Yd\nvotPFNkDNPGw4UJQn2hS2T1/kQKBgQDWBsHgbGKgWTN8nsZf8PJZJbS2499AGCOY\nTJlvhRwOWnXNlZBF2NhxNcZA0SJJKYeyVqj0eblOnTevcIHymu7AnwDnwVNOGpMu\nm/2lf3Oj0hVwlO7sp6xfQTHjAb4GcTSko9PRt7p6O09RoJPY1cqtV3OvX/efc3O4\nada4qGP1ZQKBgQCh1jPsWwRVwHcY0+GTRvk/vxU0jIxc5D3dR5isx0a0ZLNIiT/s\nfcJTf2xkzbODkllpneO+hfBGRTkwUYAQHLHjl9gcRgX57RyCNVgfQ4M0WmVwZeIo\nV42ccM+iuqQkMl4iIp7YXIG6T8fts+jB0fHi56jFFwNEWYzFTH2QgAFbkQKBgBuf\nH6JhGpFrMbPhoeR76isLLLl1yzgwZVegeyTjXu2TSyTPKqF5DOX/dKik1PHwRC0F\n9iQnGX1F2QvxTzQKPsnpO2qtjpzD3T7kruWO/1OjJ1UyQ2uTcDGS7mdHsEiQj6S3\n5/xm49Amm2QDf1E6tj+My8dUcVbIxaSFNEr8oHnpAoGALuNsscK1cPMLZJGHr+ax\nzZ2Vg5SiqvFJHoWG3i/AidEQ9RxcnVCDeR9OQ+ULCP6XYfDCwYkqynnIUqnyapEW\nBX+a9L5VLAqZSW9T8PO7lnAfoKmGonTNQ2KAzimWggfTQ6BYd260+UgWk96UasqH\nMwGY0r3vZiSHJlpNTJfW+Yc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cuentaadolfo@pollochucoapp.iam.gserviceaccount.com",
+  "client_id": "115565515094539591085",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cuentaadolfo%40pollochucoapp.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
